@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
