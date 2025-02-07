@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0029-divide-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
