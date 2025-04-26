@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0038-count-and-say) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
 | ------- |
