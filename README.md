@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0040-combination-sum-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0038-count-and-say) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0016-3sum-closest) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Stack
 |  |
 | ------- |
