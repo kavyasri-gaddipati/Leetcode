@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0049-group-anagrams) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1524-string-matching-in-an-array](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0049-group-anagrams) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1524-string-matching-in-an-array](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/kavyasri-gaddipati/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Database
 |  |
 | ------- |
